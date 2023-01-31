@@ -1,4 +1,4 @@
-image: ubuntu-latest
+image: Ubuntu1804
 stack: node 14
 branches:
   only:
