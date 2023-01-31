@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8v004t1rpyyymos8?svg=true)](https://ci.appveyor.com/project/kirill7400/appveyor-test)
+
 # Домашнее задание к лекции «Unit-тестирование»
 
 ### **Важные моменты** 
