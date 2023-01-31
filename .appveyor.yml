@@ -1,5 +1,5 @@
-image: Ubuntu1804
-stack: node 17
+image: ubuntu-latest
+stack: node 14
 branches:
   only:
     - master
